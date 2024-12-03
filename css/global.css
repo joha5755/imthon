@@ -29,8 +29,9 @@ html{
     scroll-behavior: smooth;
 }
 body{
+
     font-size: 1.6rem;
-    overflow-x: hidden;
+    
 }
 header a:hover{
     color: #002529;
