@@ -46,12 +46,16 @@ body {
 }
 .tor{
     position: relative;
-    top: -60px;
+    top: -100px;
+    right: -120px;
+
 
 }
 .tob{
     position: relative;
     top: 230px;
+    left: -130px;
+
 }
 .patr2__chaild{
     margin: 24px;
@@ -66,6 +70,7 @@ body {
     color: white;
     padding-left: 14px;
 }
+
 .divmain__masage{
     margin: 24px;
     width: 405px;
